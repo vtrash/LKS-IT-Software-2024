@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMKN 1 CIANJUR_06_SATRIA ANANDA BINTANG", "SMKN 1 CIANJUR_06_SATRIA ANANDA BINTANG\SMKN 1 CIANJUR_06_SATRIA ANANDA BINTANG.csproj", "{06F9CEB3-9BC5-4C8D-8CCF-94D68FA22A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F9CEB3-9BC5-4C8D-8CCF-94D68FA22A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F9CEB3-9BC5-4C8D-8CCF-94D68FA22A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F9CEB3-9BC5-4C8D-8CCF-94D68FA22A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F9CEB3-9BC5-4C8D-8CCF-94D68FA22A41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C18C653-0AC0-4D31-AA21-A22B30C06D55}
+	EndGlobalSection
+EndGlobal
